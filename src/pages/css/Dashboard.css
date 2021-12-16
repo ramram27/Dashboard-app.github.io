@@ -1,0 +1,50 @@
+body{
+ 
+  overflow: hidden;
+  background-color: gray;
+  font-family: 'Shippori Antique', sans-serif;
+}
+
+.a{
+  background-color: white;
+  width: 70vw;
+  margin-top: -660px;
+  margin-left: 20%;
+  padding: 10px;
+}
+
+.b{
+  width: 70vw;
+  background-color: white;
+  height: 83vh;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.c{
+  font-size: 20px;
+  padding: 20px;
+}
+
+.d{
+  margin-top: -14px;
+  width: 67vw;
+  height: 79vh;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.x{
+  margin-top: -14px;
+  width: 32vw;
+  height: 79vh;
+  flex-direction: row;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.Live-view{
+  margin-top: -14px;
+  width: 67vw;
+  height: 79vh;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  background-color: black;
+}
